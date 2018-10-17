@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/2_thread_states/src/main/main.iml" filepath="$PROJECT_DIR$/2_thread_states/src/main/main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/3_producer_consumer/src/main/main1.iml" filepath="$PROJECT_DIR$/3_producer_consumer/src/main/main1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/7_deadlocked_account/src/main/main2.iml" filepath="$PROJECT_DIR$/7_deadlocked_account/src/main/main2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/5_shutdown_producer_consumer/src/main/main3.iml" filepath="$PROJECT_DIR$/5_shutdown_producer_consumer/src/main/main3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/4_semaphore/src/main/main4.iml" filepath="$PROJECT_DIR$/4_semaphore/src/main/main4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/6_computable_cache/src/main/main5.iml" filepath="$PROJECT_DIR$/6_computable_cache/src/main/main5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/1_rectangular_area/src/main/main6.iml" filepath="$PROJECT_DIR$/1_rectangular_area/src/main/main6.iml" />
+    </modules>
+  </component>
+</project>
